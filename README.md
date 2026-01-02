@@ -47,9 +47,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/cinarp72/cinarp72/output/snake.svg" alt="Snake animation" />
-
-###
